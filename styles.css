@@ -4,6 +4,10 @@ html, body {
     font-family: 'Oswald', sans-serif;
 }
 
+p {
+    margin-bottom: 0;
+}
+
 .custom-nav {
     background-color: #0B0C10;
     font-family: 'Josefin Sans', sans-serif;
@@ -20,7 +24,9 @@ html, body {
     width: 100%;
     height: 50%;
     text-align: center;
-    padding-top: 50px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .mid-container {
