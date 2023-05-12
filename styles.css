@@ -8,6 +8,11 @@ p {
     margin-bottom: 0;
 }
 
+img {
+    margin: 30px 10px 0px 10px;
+    text-align: center;
+}
+
 .custom-nav {
     background-color: #0B0C10;
     font-family: 'Josefin Sans', sans-serif;
