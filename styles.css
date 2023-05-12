@@ -15,10 +15,6 @@ li p {
     margin-inline-end: 0px;
 }
 
-.big-img {
-
-}
-
 .custom-img {
     margin: 5px;
 }
@@ -51,9 +47,9 @@ li p {
     background-color: #1F2833;
     color: #66FCF1;
     width: 100%;
-    height: 60%;
+    min-height: 150px;
     text-align: center;
-    padding-top: 50px
+    padding: 50px 0;
 }
 
 .btm-container {
