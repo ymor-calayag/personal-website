@@ -8,9 +8,16 @@ p {
     margin-bottom: 0;
 }
 
-img {
-    margin: 30px 10px 0px 10px;
-    text-align: center;
+.big-img {
+
+}
+
+.custom-img {
+    margin: 5px;
+}
+
+.col h1 {
+    padding-top: 40px;
 }
 
 .custom-nav {
@@ -37,7 +44,7 @@ img {
     background-color: #1F2833;
     color: #66FCF1;
     width: 100%;
-    height: 50%;
+    height: 60%;
     text-align: center;
     padding-top: 50px
 }
