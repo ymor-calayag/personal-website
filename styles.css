@@ -75,10 +75,9 @@ footer p {
     width: 100%;
     min-height: 150px;
     text-align: center;
-    padding-top: 50px
 }
 
-.btm-container ol {
+.custom-ol {
     text-align: left;
 }
 
