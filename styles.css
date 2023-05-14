@@ -78,6 +78,10 @@ footer p {
     padding-top: 50px
 }
 
+.btm-container ol {
+    text-align: left;
+}
+
 footer {
     background-color: #0B0C10;
     font-size: 15px;
